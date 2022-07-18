@@ -3,7 +3,7 @@
 
 This is a starter project to use as a template for a project that uses:
 
-* React
+* React version 16
 * Redux
 * Moment.js
 
