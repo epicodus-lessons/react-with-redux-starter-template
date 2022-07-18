@@ -1,7 +1,16 @@
 ## What is this?
 ----
 
-This is a completed example project called "Help Queue" that demonstrates how to use React and Redux from from the LearnHowToProgram.com [Week 3: React with Redux coursework](https://www.learnhowtoprogram.com/react/react-with-redux). 
+This is a starter project to use as a template for a project that uses:
+
+* React
+* Redux
+* Moment.js
+
+These technologies are used in the LearnHowToProgram.com [Week 3: React with Redux](https://www.learnhowtoprogram.com/react/react-with-redux) coursework. 
+
+For a completed example project that uses this tech, visit this repo:
+[https://github.com/epicodus-lessons/react-with-redux-completed-help-queue](https://github.com/epicodus-lessons/react-with-redux-completed-help-queue)
 
 ## Project Setup
 ---
